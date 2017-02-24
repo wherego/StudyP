@@ -1,4 +1,4 @@
-# GankGirl
+# StudyP
 gank.io第三方客户端，包含妹子图和技术干货等。RxJava+Retrofit结合做网络请求，Glide做网络和本地图片加载库。
 
 Libs：
