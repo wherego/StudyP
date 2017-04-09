@@ -28,5 +28,5 @@ Libs：
 Thanks：
 ------------
 
-谢谢[gank.io](http://gank.io/)提供API，感谢默默为开源不遗余力做出努力的同志们。
+谢谢[gank.io](http://gank.io/)提供API，感谢开源世界。
 
